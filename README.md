@@ -1,11 +1,11 @@
 # SSL-and-custom-domains-MAMP
-How to add SSL to custom domains and localhost for MAMP (free version)
+### How to add SSL to custom domains and localhost for MAMP (free version) ###
 
-🚩 This example is tested in MAMP 6.3 (Chrome and Safari)
+🚩 *This example is tested in MAMP 6.3 (Chrome and Safari)*
 
-🚩 Very important that the MAMP ports are set to 80 & 3306
+🚩 *Very important that the MAMP ports are set to 80 & 3306*
 
-🚩 Change the paths and the testdomain.test to whatever you want
+🚩 *Change the paths and the testdomain.test to whatever you want*
 
 
 1. In etc/hosts point 127.0.0.1 to testdomain.test
