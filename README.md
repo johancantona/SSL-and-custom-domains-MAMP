@@ -7,6 +7,7 @@
 
 🚩 *Change the paths and the testdomain.test to whatever you want*
 
+- - - -
 
 1. In etc/hosts point 127.0.0.1 to testdomain.test
 
